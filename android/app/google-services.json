@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153355691909",
+    "project_id": "dynamiclinks-aaf2b",
+    "storage_bucket": "dynamiclinks-aaf2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153355691909:android:189ff3540799bff2ed46ec",
+        "android_client_info": {
+          "package_name": "com.example.deeplink_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153355691909-9fgg11mud864nn5vt3a9lqsue5r18lcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjYuvAE2dUjecRxZQPrl8lB2ELSTDd664"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153355691909-9fgg11mud864nn5vt3a9lqsue5r18lcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
